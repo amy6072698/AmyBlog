@@ -1,5 +1,3 @@
-<img alt="2024-camp" src="https://firebasestorage.googleapis.com/v0/b/hexschool-courses.appspot.com/o/hex-website%2Fblog%2F1710986781813-engineer-camp.png?alt=media&token=536bc802-b2b7-4778-8887-2017e88853d7">
-
 # hexschool - Hexo
 此為套用了主題 `hexschool` 的完整 Hexo 専案，開箱即用
 
